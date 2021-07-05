@@ -17,7 +17,7 @@ const jsonPath = join(__dirname, 'db', 'users.json');;
  */
  const getList = async () => {
     const content = await fsp.readFile(jsonPath, 'utf8');
-    console.log(content);
+    //console.log(content);
     return JSON.parse(content);
 };
 
