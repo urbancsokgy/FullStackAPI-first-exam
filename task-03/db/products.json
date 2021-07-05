@@ -37,13 +37,13 @@
     },
     {
         "id": 7,
-        "name": "Wine - Russoe Le Mare",
-        "price": 22,
-        "bestBefore": "2021-05-12"
+        "name": "Wine - Badacsony - Hungarian",
+        "price": 99,
+        "bestBefore": "2021-05-30"
     },
     {
         "id": 8,
-        "name": "Quail - Whole, Boneless",
+        "name": "quality - Whole, Boneless",
         "price": 7,
         "bestBefore": "2021-08-24"
     },
